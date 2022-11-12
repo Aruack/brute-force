@@ -22,6 +22,9 @@ pkg install git
 pkg install python 
 ```
 ```
+pkg install termcolor
+```
+```
 git clone https://github.com/aruack/brute-force 
 ```
 ```
